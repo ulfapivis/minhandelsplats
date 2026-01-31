@@ -1,0 +1,11 @@
+{
+  "name": "minhandelsplats",
+  "version": "1.0.0",
+  "description": "Exported from VisualCMS",
+  "scripts": {
+    "build": "tailwindcss -i ./css/input.css -o ./css/styles.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
