@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'visualcms-site-1769860697004';
+const CACHE_NAME = 'visualcms-site-1769932983800';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
